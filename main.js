@@ -14,7 +14,6 @@ nums.forEach((numbers) => {
 if (numberArr.length === nums.length) {
     numberArr.forEach(numbers => {
         treeArr.push(tree[numbers]);
-        
     })
 }
 
